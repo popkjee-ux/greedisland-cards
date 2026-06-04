@@ -4,4 +4,4 @@ Allow: /
 User-agent: Yeti
 Allow: /
 
-Sitemap: https://popkjee-ux.github.io/greedisland-cards/sitemap.xml
+Sitemap: https://greedisland.site/sitemap.xml
